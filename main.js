@@ -1,1 +1,1 @@
-console.log("충돌 날 부분입니다.")
+console.log("main02")
